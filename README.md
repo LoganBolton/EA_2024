@@ -1,4 +1,4 @@
-All projects created in my evolutionary algorgithms class in undergad. This was one of my favorite courses I have ever taken. 
+All projects created in my evolutionary algorgithms class in undergad. This was one of my favorite courses I have ever taken :)
 
 # Project Overview
 
