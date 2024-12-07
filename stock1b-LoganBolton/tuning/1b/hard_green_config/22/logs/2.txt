@@ -1,0 +1,433 @@
+mu: 5000
+num_children: 1600
+mutation rate: 0.05
+parent selection: k_tournament_with_replacement
+parent selection kwargs: {'k': 7}
+survival selection: truncation
+survival selection kwargs: {'k': 7}
+recombination kwargs: {'method': 'one-point'}
+mutation kwargs: {'bonus': False, 'bounds': ((0, 400), (0, 30))}
+Initial population size: 5000
+Evaluations: 5000
+Local best: 31
+Local mean: -49.9838
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 6600
+Local best: 31
+Local mean: -49.968
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 8200
+Local best: 31
+Local mean: -49.968
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 9800
+Local best: 31
+Local mean: -49.9518
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 11400
+Local best: 31
+Local mean: -49.9518
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 13000
+Local best: 31
+Local mean: -49.9356
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 14600
+Local best: 31
+Local mean: -49.9356
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 16200
+Local best: 44
+Local mean: -49.9006
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 17800
+Local best: 45
+Local mean: -49.8816
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 19400
+Local best: 50
+Local mean: -49.8286
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 21000
+Local best: 65
+Local mean: -49.7532
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 22600
+Local best: 65
+Local mean: -49.5972
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 24200
+Local best: 65
+Local mean: -49.5302
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 25800
+Local best: 88
+Local mean: -49.3618
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 27400
+Local best: 88
+Local mean: -49.131
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 29000
+Local best: 88
+Local mean: -48.7248
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 30600
+Local best: 88
+Local mean: -48.3426
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 32200
+Local best: 88
+Local mean: -47.6636
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 33800
+Local best: 88
+Local mean: -46.5212
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 35400
+Local best: 88
+Local mean: -44.5338
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 37000
+Local best: 88
+Local mean: -40.9742
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 38600
+Local best: 88
+Local mean: -34.9266
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 40200
+Local best: 98
+Local mean: -22.38
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 41800
+Local best: 98
+Local mean: -2.9826
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 43400
+Local best: 123
+Local mean: 22.7438
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 45000
+Local best: 130
+Local mean: 50.0064
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 46600
+Local best: 136
+Local mean: 63.9596
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 48200
+Local best: 141
+Local mean: 73.5846
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 49800
+Local best: 166
+Local mean: 80.706
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 51400
+Local best: 176
+Local mean: 88.2968
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 53000
+Local best: 181
+Local mean: 95.4566
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 54600
+Local best: 188
+Local mean: 102.7916
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 56200
+Local best: 190
+Local mean: 109.8834
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 57800
+Local best: 211
+Local mean: 118.772
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 59400
+Local best: 211
+Local mean: 129.9618
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 61000
+Local best: 213
+Local mean: 143.4092
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 62600
+Local best: 213
+Local mean: 158.1714
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 64200
+Local best: 213
+Local mean: 172.438
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 65800
+Local best: 216
+Local mean: 182.6052
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 67400
+Local best: 224
+Local mean: 186.8192
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 69000
+Local best: 224
+Local mean: 191.0702
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 70600
+Local best: 234
+Local mean: 196.3498
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 72200
+Local best: 234
+Local mean: 202.8696
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 73800
+Local best: 234
+Local mean: 210.0604
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 75400
+Local best: 234
+Local mean: 214.9844
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 77000
+Local best: 234
+Local mean: 218.3146
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 78600
+Local best: 234
+Local mean: 222.5168
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 80200
+Local best: 234
+Local mean: 227.3684
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 81800
+Local best: 234
+Local mean: 230.5076
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 83400
+Local best: 234
+Local mean: 233.5016
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 85000
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 86600
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 88200
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 89800
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 91400
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 93000
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 94600
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 96200
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 97800
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 99400
+Local best: 234
+Local mean: 234
+Number of children: 1600
+Number of mutations: 0
+Pre-survival population size: 6600
+Post-survival population size: 5000
+Evaluations: 101000
+Local best: 234
+Local mean: 234

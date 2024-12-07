@@ -1,0 +1,146 @@
+mu: 7000
+num_children: 5000
+mutation rate: 0.1
+parent selection: k_tournament_with_replacement
+parent selection kwargs: {'k': 10}
+survival selection: k_tournament_without_replacement
+survival selection kwargs: {'k': 10}
+recombination kwargs: {'method': 'one-point'}
+mutation kwargs: {'bonus': False, 'bounds': ((0, 400), (0, 30))}
+Initial population size: 7000
+Evaluations: 7000
+Local best: 4
+Local mean: -49.992285714285714
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 12000
+Local best: 19
+Local mean: -49.95614285714286
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 17000
+Local best: 38
+Local mean: -49.908857142857144
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 22000
+Local best: 38
+Local mean: -49.810857142857145
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 27000
+Local best: 38
+Local mean: -49.61157142857143
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 32000
+Local best: 38
+Local mean: -49.038714285714285
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 37000
+Local best: 42
+Local mean: -47.56771428571429
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 42000
+Local best: 60
+Local mean: -42.60371428571428
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 47000
+Local best: 70
+Local mean: -24.83385714285714
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 52000
+Local best: 110
+Local mean: 10.759857142857143
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 57000
+Local best: 112
+Local mean: 36.25085714285714
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 62000
+Local best: 129
+Local mean: 49.219
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 67000
+Local best: 141
+Local mean: 63.23428571428571
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 72000
+Local best: 141
+Local mean: 81.08385714285714
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 77000
+Local best: 166
+Local mean: 102.53257142857143
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 82000
+Local best: 193
+Local mean: 119.49828571428571
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 87000
+Local best: 193
+Local mean: 133.80457142857142
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 92000
+Local best: 193
+Local mean: 140.72042857142858
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 97000
+Local best: 197
+Local mean: 145.62542857142856
+Number of children: 5000
+Number of mutations: 0
+Pre-survival population size: 12000
+Post-survival population size: 7000
+Evaluations: 102000
+Local best: 197
+Local mean: 159.45442857142856
